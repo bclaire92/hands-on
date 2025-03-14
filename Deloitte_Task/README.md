@@ -5,7 +5,7 @@ Project Overview
 This project aims to identify key operational risk components to enhance risk mitigation strategies. By analyzing various risk factors, the goal is to improve decision-making and optimize business processes.  
 
 
-Data Analysis Approach  
+Data Analysis Approach 
 - Data Cleaning & Preparation: Handle missing values, remove duplicates, and normalize data.  
 - Exploratory Data Analysis (EDA): Identify trends and risk factors through visualizations.  
 - Risk Categorization: Rank risk components based on severity and frequency.  
